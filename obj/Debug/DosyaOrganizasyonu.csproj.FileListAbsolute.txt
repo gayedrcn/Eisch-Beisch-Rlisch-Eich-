@@ -1,0 +1,37 @@
+c:\users\mmhus\documents\visual studio 2015\Projects\DosyaOrganizasyonu\DosyaOrganizasyonu\bin\Debug\DosyaOrganizasyonu.exe.config
+c:\users\mmhus\documents\visual studio 2015\Projects\DosyaOrganizasyonu\DosyaOrganizasyonu\bin\Debug\DosyaOrganizasyonu.exe
+c:\users\mmhus\documents\visual studio 2015\Projects\DosyaOrganizasyonu\DosyaOrganizasyonu\bin\Debug\DosyaOrganizasyonu.pdb
+c:\users\mmhus\documents\visual studio 2015\Projects\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.csprojResolveAssemblyReference.cache
+c:\users\mmhus\documents\visual studio 2015\Projects\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.Form1.resources
+c:\users\mmhus\documents\visual studio 2015\Projects\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.Properties.Resources.resources
+c:\users\mmhus\documents\visual studio 2015\Projects\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.csproj.GenerateResource.Cache
+c:\users\mmhus\documents\visual studio 2015\Projects\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.exe
+c:\users\mmhus\documents\visual studio 2015\Projects\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.pdb
+C:\Users\EBA\Downloads\DosyaOrganizasyonu\DosyaOrganizasyonu\DosyaOrganizasyonu\bin\Debug\DosyaOrganizasyonu.exe.config
+C:\Users\EBA\Downloads\DosyaOrganizasyonu\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.exe
+C:\Users\EBA\Downloads\DosyaOrganizasyonu\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.pdb
+C:\Users\EBA\Downloads\DosyaOrganizasyonu\DosyaOrganizasyonu\DosyaOrganizasyonu\bin\Debug\DosyaOrganizasyonu.exe
+C:\Users\EBA\Downloads\DosyaOrganizasyonu\DosyaOrganizasyonu\DosyaOrganizasyonu\bin\Debug\DosyaOrganizasyonu.pdb
+C:\Users\EBA\Downloads\DosyaOrganizasyonu\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.csprojResolveAssemblyReference.cache
+C:\Users\EBA\Downloads\DosyaOrganizasyonu\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.Form1.resources
+C:\Users\EBA\Downloads\DosyaOrganizasyonu\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.Properties.Resources.resources
+C:\Users\EBA\Downloads\DosyaOrganizasyonu\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Yeni klasör (3)\DosyaOrganizasyonu\DosyaOrganizasyonu\bin\Debug\DosyaOrganizasyonu.exe.config
+C:\Users\User\Desktop\Yeni klasör (3)\DosyaOrganizasyonu\DosyaOrganizasyonu\bin\Debug\DosyaOrganizasyonu.exe
+C:\Users\User\Desktop\Yeni klasör (3)\DosyaOrganizasyonu\DosyaOrganizasyonu\bin\Debug\DosyaOrganizasyonu.pdb
+C:\Users\User\Desktop\Yeni klasör (3)\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Yeni klasör (3)\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.Form1.resources
+C:\Users\User\Desktop\Yeni klasör (3)\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.Properties.Resources.resources
+C:\Users\User\Desktop\Yeni klasör (3)\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Yeni klasör (3)\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Yeni klasör (3)\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.exe
+C:\Users\User\Desktop\Yeni klasör (3)\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.pdb
+C:\Users\bulent.dirican\Desktop\DosyaOrganizasyonumehmet\DosyaOrganizasyonu\DosyaOrganizasyonu\bin\Debug\DosyaOrganizasyonu.exe.config
+C:\Users\bulent.dirican\Desktop\DosyaOrganizasyonumehmet\DosyaOrganizasyonu\DosyaOrganizasyonu\bin\Debug\DosyaOrganizasyonu.exe
+C:\Users\bulent.dirican\Desktop\DosyaOrganizasyonumehmet\DosyaOrganizasyonu\DosyaOrganizasyonu\bin\Debug\DosyaOrganizasyonu.pdb
+C:\Users\bulent.dirican\Desktop\DosyaOrganizasyonumehmet\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.csprojResolveAssemblyReference.cache
+C:\Users\bulent.dirican\Desktop\DosyaOrganizasyonumehmet\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.Form1.resources
+C:\Users\bulent.dirican\Desktop\DosyaOrganizasyonumehmet\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.Properties.Resources.resources
+C:\Users\bulent.dirican\Desktop\DosyaOrganizasyonumehmet\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.csproj.GenerateResource.Cache
+C:\Users\bulent.dirican\Desktop\DosyaOrganizasyonumehmet\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.exe
+C:\Users\bulent.dirican\Desktop\DosyaOrganizasyonumehmet\DosyaOrganizasyonu\DosyaOrganizasyonu\obj\Debug\DosyaOrganizasyonu.pdb
